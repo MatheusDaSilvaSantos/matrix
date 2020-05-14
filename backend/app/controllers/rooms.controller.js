@@ -31,6 +31,7 @@ const createRoomFileSync = () => {
     "Matheus",
     "Nelson",
     "Patricia",
+    "Vitoria",
     "Daily",
     "#sextou"
   ];
