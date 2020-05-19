@@ -7,6 +7,7 @@ const roomFilePath = "../file/matrix.room.web.json";
 
 const createRoomFileSync = () => {
   const niceNames = [
+    "Van",
     "Artur",
     "Gabriela",
     "Matheus",
